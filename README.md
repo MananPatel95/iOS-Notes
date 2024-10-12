@@ -60,11 +60,11 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
 - TDD
 
 ## Persistance
+[Project for all 4 methods](https://github.com/MananPatel95/iOS-Notes/tree/main/PersistantStorageUserDefKeyChain)
 - CoreData
 - UserDefaults
 - Keychain
 - SwiftData
-[Article](https://github.com/MananPatel95/iOS-Notes/tree/main/PersistantStorageUserDefKeyChain)
 
 ## Unit Testing
 - Mock objects
