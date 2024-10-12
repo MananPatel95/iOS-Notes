@@ -34,6 +34,7 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
 - GCD
 - Operations via Semaphores, Queues
 - Concurrent vs Serial Queues
+- Actors, MainActors
 
 ## UIKit
 - Responder chain
