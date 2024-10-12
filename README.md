@@ -6,6 +6,9 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
     - Designated init | Convenience init | Failable init | Required init
     - Override inits
 - Class vs Struct
+    - Point vs Rectangle Example
+    - Google Sheets vs Excel Analogy  
+  
 - Optionals
     - Force Unwrapping
     - Implicit unwrapping
@@ -20,14 +23,15 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
     - Factory
     - Singleton
     - Prototype
-- Networking
-    - Protocol Oriented Programming
-    - Completion Handlers
-    - Async Await (SwiftUI)
-    - MockObject Testing for Network Classes
 - TypeAlias
 - OpaqueTypes
-- Defer Keyword
+- [Defer Keyword](https://github.com/MananPatel95/iOS-Notes/tree/main/Defer.playground)
+  
+## Networking
+- Protocol Oriented Programming
+- [Completion Handlers](https://github.com/MananPatel95/iOS-Notes/tree/main/MVVMComments-SwiftCompletions)
+- [Async Await (SwiftUI)](https://github.com/MananPatel95/iOS-Notes/tree/main/MVVMComments-AsyncAwsit)
+- MockObject Testing for Network Classes
 
 ## MultiThreading
 - Thread
@@ -38,14 +42,14 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
 
 ## UIKit
 - Responder chain
-- Lifecycle of views
+- [Lifecycle of views](https://github.com/MananPatel95/iOS-Notes/tree/main/ViewLifeCycle)
 - AutoLayout
-- Frame vs Bounds
+- [Frame vs Bounds](https://github.com/MananPatel95/iOS-Notes/tree/main/FrameVsBounds)
 - xib and Storyboard
 
 ## SwiftUI
 - Async Await
-  - List and fetch data
+  - [List and fetch data](https://github.com/MananPatel95/iOS-Notes/tree/main/MVVMComments-AsyncAwsit)
 - “Some” keyword
 
 ## Architecture
@@ -60,6 +64,7 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
 - UserDefaults
 - Keychain
 - SwiftData
+[Article](https://github.com/MananPatel95/iOS-Notes/tree/main/PersistantStorageUserDefKeyChain)
 
 ## Unit Testing
 - Mock objects
