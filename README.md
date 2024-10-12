@@ -2,7 +2,6 @@
 A repo to hold all my iOS Notes. Mainly useful for interview prep and going back to reference pieces of code.
 
 ## Swift Programming
-
 - Swift and Obj C Specifics
     - Designated init | Convenience init | Failable init | Required init
     - Override inits
@@ -48,19 +47,28 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
   - List and fetch data
 - “Some” keyword
 
-### Architecture
+## Architecture
 - MVC
 - MVVM - To-do: Make network call in optimal MVVM arch in 30 mins
 - VIPER
 - Protocol oriented programming
 - TDD
 
-### Persistance
+## Persistance
 - CoreData
 - UserDefaults
 - Keychain
 - SwiftData
 
-### Unit Testing
+## Unit Testing
 - Mock objects
 - To-do: Make mock network call with failure and success cases
+
+## Snapshot Testing
+
+## CI/CD
+- Fastlane
+- Github Actions
+- TestFlight
+- A/B Testing
+- Feature Flagging
