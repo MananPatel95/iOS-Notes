@@ -9,8 +9,7 @@ A repo to hold all my iOS Notes. Mainly useful for interview prep and going back
     - Point vs Rectangle Example
     - Google Sheets vs Excel Analogy  
   
-- Optionals
-  [Article explaining the below](https://github.com/MananPatel95/iOS-Notes/tree/main/Optionals)
+- [Optionals](https://github.com/MananPatel95/iOS-Notes/tree/main/Optionals)
     - Force Unwrapping
     - Implicit unwrapping
     - Optional Binding
